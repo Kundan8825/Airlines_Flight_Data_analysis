@@ -37,7 +37,7 @@ The goal of this project is to uncover meaningful patterns and trends in airline
 
 ## 📈 Key Findings
 
-- Explored **10,000+ flight records** to uncover trends in ticket pricing.  
+- Explored **3 Lakhs+ flight records** to uncover trends in ticket pricing.  
 - Built **20+ visualizations** showing pricing trends, busiest routes, and class comparisons.  
 - Used **SQL** to extract insights:  
   - Average ticket price per airline  
